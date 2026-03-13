@@ -12,7 +12,8 @@ Análisis HAND (Height Above Nearest Drainage): Normalización topográfica basa
 
 Capa Urbana: Identificación de superficies impermeables mediante la base de datos Google Open Buildings V3 para el cálculo de coeficientes de escorrentía variables.
 
-📊 Valor Agregado (Digital Twin)A diferencia de un mapa estático, este script actúa como un gemelo digital que permite:Ajuste de Variables: Modificar el Periodo de Retorno ($Tr$) y Tiempo de Concentración ($tc$) en tiempo real.Stress Test: Evaluar la resiliencia de la infraestructura urbana actual frente a la "lluvia de diseño" del futuro.
+📊 Valor Agregado (Digital Twin)A diferencia de un mapa estático, este script actúa como un gemelo digital que permite:Ajuste de Variables: Modificar el Periodo de Retorno ($Tr$) y Tiempo de Concentración ($tc$) en tiempo real.
+Stress Test: Evaluar la resiliencia de la infraestructura urbana actual frente a la "lluvia de diseño" del futuro.
 
 
 
